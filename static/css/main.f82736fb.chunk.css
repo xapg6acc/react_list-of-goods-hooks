@@ -1,0 +1,2 @@
+.list,.select{font-size:1.2em}.list{display:flex;flex-direction:column;max-width:300px}.list__item{display:flex;flex-direction:row;justify-content:space-between}.list__item:not(:last-child){padding-bottom:5px;border-bottom:1px solid purple}
+/*# sourceMappingURL=main.f82736fb.chunk.css.map */
